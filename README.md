@@ -6,7 +6,7 @@ $ apt-get install portmap
 $ apt-get install nfs-common
 $ apt-get install nfs-kernel-server
 ```
-1. definir el directorio a exportar:
+2. definir el directorio a exportar:
 ```bash
 $ mkdir /export/nfs
 ```
